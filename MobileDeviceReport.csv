@@ -1,0 +1,120 @@
+computer_name,os_version,windows_build_number,logged_user,bios_vendor,bios_version,mac_address,city,state,country,latitude,longitude
+prd00601-Jim F Surface,Windows 10,10.0.15063,jfrench,American Megatrends Inc.,3.11.2150,28:18:78:FF:7B:AA,Mountain View,California,United States,37.388191,-122.05467850000001
+PRD00616-Andy B,Windows 7,6.1.7601,behra,American Megatrends Inc.,V2.00L15,10:4A:7D:1A:C5:CF,Lakewood,Colorado,United States,39.6819254,-105.08644969999999
+Liana Mortazavil,Mac High Sierra,10.13.6,mortazavil,Apple,428.0.0.0.0,8C:85:90:7B:B8:A7,None,California,United States,37.3075517,-122.01898309999999
+PRD00772,Windows 10,10.0.19042,kamair,Microsoft Corporation,235.3440.768,BC:83:85:F9:9E:65,Cupertino,California,United States,37.305262,-122.05442140000001
+PRD00935-Kunal Bajaj-Desktop,Windows 10,10.0.19041,kk53217,Dell Inc.,2.2.0,00:FF:F0:42:19:F9,Fremont,California,United States,37.521069,-121.9831459
+LAPTOP-51R350NS,Windows 10,10.0.19041,User,American Megatrends Internationa,UX435EG.305,78:2B:46:79:3A:BA,None,California,United States,37.6914466,-122.0836818
+PRDCA-TEST-1,Windows 10,10.0.19042,User,American Megatrends Inc.,V1.50L16,34:C7:31:AB:62:BB,None,California,United States,37.6919314,-122.0840786
+PRDVM06,Windows 10,10.0.19041,yshih,Phoenix Technologies LTD,6.00,00:50:56:9A:B5:99,None,None,None,None,None
+PRDVM05,Windows 10,10.0.19041,null,Phoenix Technologies LTD,6.00,00:50:56:9A:85:A9,None,None,None,None,None
+PRDVM07,Windows 10,10.0.19042,yshih,Phoenix Technologies LTD,6.00,00:50:56:9A:47:12,None,None,None,None,None
+PRD00778,Windows 10,10.0.19042,wli,Dell Inc.,2.6.0,CC:2F:71:9E:04:8F,Mountain View,California,United States,37.3881935,-122.0546619
+PRD00809,Windows 10,10.0.19042,mstevens,Dell Inc.,1.1.16,B8:85:84:A0:15:38,Mountain View,California,United States,37.402016599999996,-122.08743189999998
+PRD00941,Windows 10,10.0.19042,mstevens,American Megatrends Inc.,V2.00L22,08:71:90:6A:DF:97,Mountain View,California,United States,37.4019717,-122.0873638
+PRD00875,Windows 10,10.0.19042,souriyadetha,American Megatrends Inc.,V2.00L22,08:71:90:6A:DF:6A,Santa Clara,California,United States,37.3574105,-121.99857630000001
+PRD00854,Windows 10,10.0.19042,amy_yu,Dell Inc.,1.1.3,48:5F:99:67:DA:B3,Fremont,California,United States,37.526531399999996,-121.92731570000001
+PRD00971,Windows 10,10.0.19042,nboerger,Dell Inc.,2.0.11,18:26:49:97:E9:A1,Palo Alto,California,United States,37.422647,-122.1242275
+PRD00818,Windows 10,10.0.19043,jfrench,American Megatrends Inc.,V2.00L19,48:A4:72:92:7F:7F,Cupertino,California,United States,37.3231389,-122.0382744
+PRD00925,Windows 10,10.0.18363,geisheimert,Dell Inc.,1.13.0,8C:C8:4B:3E:3A:3B,Bensalem Township,Pennsylvania,United States,40.101478400000005,-74.9568
+PRD00972,Windows 10,10.0.19042,null,Dell Inc.,2.0.11,A4:BB:6D:DF:AD:39,Mountain View,California,United States,37.3882298,-122.05464379999998
+PRD00983,Windows 10,10.0.19042,gohara_kunio,LENOVO,EHCN33WW,BC:17:B8:CB:10:92,None,California,United States,37.4558975,-122.186303
+PRD00982,Windows 10,10.0.19043,yamamoto_shoma,LENOVO,EHCN40WW,38:FC:98:0C:83:7A,Palo Alto,California,United States,37.3950513,-122.1444976
+PRD00981,Windows 10,10.0.19042,fujita_hironori,LENOVO,EHCN33WW,24:F5:A2:F1:55:4C,None,California,United States,37.4561468,-122.18648359999997
+DESKTOP-VUK7OB9,Windows 10,10.0.19042,MediaAlliance,American Megatrends Inc.,GL502VSK.301,34:F3:9A:E5:17:B2,None,California,United States,37.2830358,-121.9992039
+PRD00832,Windows 10,10.0.19043,nishikawat,Microsoft Corporation,109.3681.768,BC:83:85:00:55:54,Cupertino,California,United States,37.3175688,-122.0603487
+PRD00940,Windows 10,10.0.19042,nishikawat,American Megatrends Inc.,V2.00L26,3C:6A:A7:96:20:2B,Cupertino,California,United States,37.317451299999995,-122.0605917
+PRD00769,Windows 10,10.0.19043,fungp,Dell Inc.,1.2.0,02:50:F2:F9:64:26,Sunnyvale,California,United States,37.346112,-122.02899
+PRD00556,Windows 10,10.0.19042,satoa,Dell Inc.,A08,58:EF:68:59:AC:7C,Burbank,California,United States,34.1771303,-118.3374289
+win10-vm1,Windows 10,10.0.18363,null,Phoenix Technologies LTD,6.00,00:50:56:B0:96:2D,None,None,None,None,None
+PRD00974,Windows 10,10.0.19041,kamair,American Megatrends Internationa,UX435EG.305,3C:9C:0F:2D:6D:6F,羽咋市,None,日本,36.9215035,136.8474665
+USNJ017W2064,Windows 10,10.0.18363,YS74364,American Megatrends Inc.,V2.00L18,00:FF:63:40:AB:81,Sunnyvale,California,United States,37.3674276,-122.05675040000001
+PRD00970,Windows 10,10.0.19042,mstelts,Dell Inc.,1.8.0,04:6C:59:0B:AD:F6,Upper Milford Township,Pennsylvania,United States,40.4944663,-75.48769999999999
+spare-xps13-326,Windows 10,10.0.19042,jcarter,Dell Inc.,2.14.0,60:F6:77:D3:87:72,Marlborough,Massachusetts,United States,42.3203403,-71.58587179999999
+spare-xps13-338,Windows 10,10.0.19042,jcarter,Dell Inc.,2.15.0,60:F6:77:D3:66:07,Marlborough,Massachusetts,United States,42.320345499999995,-71.5858583
+spare-xps13-337,Windows 10,10.0.19042,null,Dell Inc.,2.15.0,60:F6:77:D3:82:F4,Marlborough,Massachusetts,United States,42.3203412,-71.5857719
+spare-xps13-328,Windows 10,10.0.19042,jcarter,Dell Inc.,2.11.0,50:9A:4C:C7:CB:5D,Marlborough,Massachusetts,United States,42.3203299,-71.5858568
+spare-xps-342,Windows 10,10.0.18362,jcarter,Dell Inc.,1.17.1,10:65:30:D2:88:13,Marlborough,Massachusetts,United States,42.3203523,-71.5858606
+PRD00976,Windows 10,10.0.19042,ogiharas,American Megatrends Internationa,UX435EG.305,00:E0:4C:68:4D:2C,El Monte,California,United States,34.1091086,-118.08406590000001
+chan-xps-354,Windows 10,10.0.19042,mchan,Dell Inc.,1.10.0,50:EB:71:24:52:ED,None,Massachusetts,United States,42.2159039,-71.537112
+jenglish-xps334,Windows 10,10.0.19042,jenglish,Dell Inc.,1.19.2,9C:B6:D0:FA:34:5B,None,New York,United States,44.2710596,-73.9776428
+swindell-xps-124,Windows 10,10.0.19043,swindells,Dell Inc.,1.22.1,98:48:27:78:CE:82,Marlborough,Massachusetts,United States,42.320330299999995,-71.5859457
+liu-xps15-147,Windows 10,10.0.19043,monkey,Dell Inc.,1.6.0,8C:04:BA:84:98:94,None,Massachusetts,United States,42.515943199999995,-71.43127179999999
+collins-xps-145,Windows 10,10.0.19042,CollinsH,Dell Inc.,1.11.1,00:E0:4C:68:12:C6,None,Massachusetts,United States,42.3717446,-71.21731710000002
+swindell-opti-122,Windows 10,10.0.19042,null,Dell Inc.,A16,34:17:EB:C8:BD:0C,None,None,None,None,None
+leto-xps8930-137,Windows 10,10.0.19042,RLeto,Dell Inc.,1.1.4,48:5F:99:BA:5F:59,None,Massachusetts,United States,42.371745399999995,-71.21733139999999
+salah-m3800-104,Windows 10,10.0.18363,salaha,Dell Inc.,A12,8C:AE:4C:EC:52:7F,None,Massachusetts,United States,42.3717173,-71.21734719999999
+cbrule-win10-111,Windows 10,10.0.19042,cbrule,American Megatrends Inc.,1602,08:62:66:48:48:C2,None,None,None,None,None
+chang-xps15-143,Windows 10,10.0.19041,ChangLi,Dell Inc.,1.17.1,9C:B6:D0:C0:39:23,None,Massachusetts,United States,42.5038727,-71.4184418
+PBL-COMSOL-103,Windows 7,6.1.7601,64bit,Acer,P21-A2,74:27:EA:B8:49:FA,None,None,None,None,None
+leto-xps15-144,Windows 10,10.0.19042,RLeto,Dell Inc.,1.18.1,9C:B6:D0:C0:27:C9,None,Massachusetts,United States,42.4170231,-71.1658958
+AMIR-xps15-324,Windows 10,10.0.19042,null,Dell Inc.,1.21.0,9C:B6:D0:F1:F7:F3,None,Maryland,United States,39.1160299,-77.17212889999999
+pbl-fs01,Windows 10,10.0.17763,null,"VMware, Inc.",VMW71.00V.16707776.B64.200807023,00:50:56:81:51:9F,None,None,None,None,None
+pbl-itwin10,Windows 10,10.0.19042,null,Phoenix Technologies LTD,6.00,00:50:56:8B:27:29,None,None,None,None,None
+wmcdonald-xps-348,Windows 10,10.0.19041,wmcdonald,Dell Inc.,1.16.2,9C:B6:D0:C2:B3:61,None,Massachusetts,United States,42.6725778,-71.64828589999999
+li-xps-118,Windows 10,10.0.18363,LiF,Dell Inc.,1.5.1,00:E0:4C:17:48:95,None,Massachusetts,United States,42.3717798,-71.2173124
+DEXTRAS-XPS-361,Windows 10,10.0.19042,pdextras,Dell Inc.,1.6.1,B0:7B:25:89:E9:91,None,Massachusetts,United States,42.2898332,-71.58874879999999
+pbl-mon2,Windows 8.1,6.3.9600,null,"VMware, Inc.",VMW71.00V.16707776.B64.200807023,00:50:56:8B:27:EC,None,None,None,None,None
+pbl-sldw,Windows 10,10.0.19042,null,Phoenix Technologies LTD,6.00,00:50:56:8B:60:4F,None,None,None,None,None
+pbl-engsim,Windows 10,10.0.18363,null,American Megatrends Inc.,3.1,00:25:90:BD:AC:0C,None,None,None,None,None
+spare-xps-114,Windows 10,10.0.19042,salaha,Dell Inc.,1.14.0,00:10:74:18:1C:FF,None,Massachusetts,United States,42.3717362,-71.217326
+ellab-lenovo-108,Windows 10,10.0.19042,null,LENOVO,9SKT54AUS,40:2C:F4:EA:C3:95,None,None,None,None,None
+eivanov-xps-353,Windows 10,10.0.19042,eivanov,Dell Inc.,1.16.2,9C:B6:D0:C7:18:1B,None,Massachusetts,United States,42.4595801,-71.218059
+hughes-xps-339,Windows 10,10.0.16299,ahughes,Dell Inc.,1.9.4,9C:B6:D0:FA:4D:CD,None,Massachusetts,United States,42.27126090000001,-71.5468121
+dserrano-xps330,Windows 10,10.0.16299,dserrano,Dell Inc.,1.16.0,9C:B6:D0:F9:AE:0F,None,Tennessee,United States,36.0058454,-86.83206390000001
+dyounkin-xps-345,Windows 10,10.0.17763,dyounkin,Dell Inc.,1.7.0,00:FF:80:9C:B3:A3,None,Massachusetts,United States,42.6416798,-71.94012239999999
+jeong-xps15-325,Windows 10,10.0.19043,yjeong,Dell Inc.,1.19.2,9C:B6:D0:F2:03:F7,West Windsor,Vermont,United States,43.4657319,-72.47083549999999
+hennessy-xps-357,Windows 10,10.0.19042,rhennessy,Dell Inc.,1.7.0,74:78:27:A8:CF:CB,None,Massachusetts,United States,42.299569999999996,-71.6505191
+ngoyal-xps-347,Windows 10,10.0.17763,ngoyal,Dell Inc.,1.16.2,9C:B6:D0:C2:B5:8D,San Diego,California,United States,32.9926482,-117.087904
+lipka-xps-367,Windows 10,10.0.19042,rlipka,Dell Inc.,1.6.1,DC:41:A9:9F:C3:79,None,Massachusetts,United States,42.3464549,-71.647713
+rmhatre-xps-350,Windows 10,10.0.17763,rmhatre,Dell Inc.,1.16.2,9C:B6:D0:C4:10:FB,None,Massachusetts,United States,42.472575,-71.4892897
+nunan-xps-366,Windows 10,10.0.19042,knunan,Dell Inc.,1.6.1,74:78:27:B2:91:82,None,Massachusetts,United States,42.5378514,-71.3155586
+jstoyle-1PM3BH2,Windows 10,10.0.15063,jstoyle,Dell Inc.,1.22.1,9C:B6:D0:E8:8C:AB,Marlborough,Massachusetts,United States,42.3203361,-71.5858409
+PRD00694,Windows 10,10.0.19043,gudovskiyd,Dell Inc.,2.11.0,9C:B6:D0:D4:67:F5,None,California,United States,37.7716488,-121.97795680000002
+spal-xps-344,Windows 10,10.0.17134,spal,Dell Inc.,1.17.1,9C:B6:D0:B7:0D:01,Marlborough,Massachusetts,United States,42.345791,-71.5118143
+comsol-493026,Windows 10,10.0.17134,null,American Megatrends Inc.,2.0b,0C:C4:7A:FC:01:44,None,None,None,None,None
+LAB1-B85-133,Windows 10,10.0.19042,64bit,American Megatrends Inc.,3602,1C:B7:2C:AD:8F:33,None,None,None,None,None
+COLLINS-INS-112,Windows 10,10.0.14393,collinsh,Dell Inc.,1.22.0,08:D4:0C:BE:EF:97,None,Massachusetts,United States,42.5497101,-71.3016026
+PRD00566,Windows 8.1,6.3.9600,martinr,American Megatrends Inc.,X550LA.403,54:27:1E:44:EE:3A,None,Colorado,United States,37.3230844,-107.58467279999999
+spare-x99-101,Windows 10,10.0.19042,jaycarter,American Megatrends Inc.,F23c,FC:AA:14:2A:F1:38,None,None,None,None,None
+hoseini-xps-335,Windows 10,10.0.18362,hoseinis,Dell Inc.,1.21.0,10:65:30:09:3E:15,None,Massachusetts,United States,42.2062447,-71.68790899999999
+PRD00986,Windows 10,10.0.19042,nakayak,Dell Inc.,1.4.0,9C:B6:D0:8F:9E:1B,Mountain View,California,United States,37.3882201,-122.0546844
+QDESK10,Windows 10,10.0.17134,null,American Megatrends Inc.,2104,00:26:83:38:12:7F,None,None,None,None,None
+ansys-smc-351,Windows 10,10.0.17763,null,American Megatrends Inc.,1.2,AC:1F:6B:72:C3:0E,None,None,None,None,None
+QSYS0123,Windows 10,10.0.19043,null,Dell Inc.,A07,98:90:96:DC:AD:0B,None,None,None,None,None
+QDESK03,Windows 10,10.0.19043,null,Dell Inc.,A12,18:03:73:20:1E:67,None,None,None,None,None
+comsol-3025,Windows 10,10.0.17134,null,American Megatrends Inc.,2.0b,0C:C4:7A:FB:89:A6,None,None,None,None,None
+QDESK11,Windows 10,10.0.19043,null,American Megatrends Inc.,0802,00:26:83:2E:EA:C7,None,None,None,None,None
+parker6-358,Windows 10,10.0.19041,null,Dell Inc.,1.3.1,A4:BB:6D:BD:37:3B,None,None,None,None,None
+parker7-359,Windows 10,10.0.19041,null,Dell Inc.,1.3.1,00:E0:4C:B0:39:BE,None,None,None,None,None
+qlab09-win10,Windows 10,10.0.19042,qlab,Dell Inc.,A22,34:17:EB:BF:6D:54,None,None,None,None,None
+QLAPTOP56,Windows 7,6.1.7601,null,Dell Inc.,A08,00:50:B6:46:B4:42,None,None,None,None,None
+setupc-132,Windows 10,10.0.19041,qlab,Dell Inc.,A06,9C:D2:1E:5B:04:37,Marlborough,Massachusetts,United States,42.3203732,-71.5856996
+setupa-135,Windows 10,10.0.19041,null,Dell Inc.,A06,00:0E:C6:63:F2:1A,Marlborough,Massachusetts,United States,42.3203664,-71.5857765
+parker4-191,Windows 10,10.0.19041,null,Dell Inc.,A05,F8:B1:56:CA:7B:EB,None,None,None,None,None
+setupb-137,Windows 10,10.0.19041,null,Dell Inc.,A06,00:0E:C6:63:F2:D8,Marlborough,Massachusetts,United States,42.32035,-71.58586249999999
+eg1-139,Windows 10,10.0.19041,null,Dell Inc.,A08,98:90:96:B8:FE:6C,None,None,None,None,None
+eg2-138,Windows 10,10.0.19041,null,Dell Inc.,A08,98:90:96:B9:00:90,None,None,None,None,None
+NI-PXIE-WIN10,Windows 10,10.0.19042,qlab,National Instruments,1.0.0f5,00:80:2F:14:28:8A,None,None,None,None,None
+eg3-360,Windows 10,10.0.19041,null,Dell Inc.,1.1.10,A4:BB:6D:CF:D8:D0,None,None,None,None,None
+dsulivan-xps-352,Windows 10,10.0.19042,dsullivan,Dell Inc.,1.19.0,8C:04:BA:4D:0F:77,None,Massachusetts,United States,42.416759,-71.6828467
+umeda-xps13-356,Windows 10,10.0.18363,tumeda,Dell Inc.,1.5.1,00:50:B6:AF:B4:38,None,Massachusetts,United States,42.4153491,-71.2350503
+computer_name,os_version,windows_build_number,logged_user,bios_vendor,bios_version,mac_address,city,state,country,latitude,longitude
+yamamoto-363,Windows 10,10.0.19042,kyamamoto,Dell Inc.,1.7.0,00:E0:4C:A3:AD:A1,New York,New York,United States,40.714796299999996,-74.0162792
+WIN7TEST,Windows 7,6.1.7601,null,Phoenix Technologies LTD,6.00,00:50:56:B0:78:AF,None,None,None,None,None
+PRD00989,Windows 10,10.0.19042,kiyota_yoko,LENOVO,EHCN33WW,34:C9:3D:A8:E6:E8,None,California,United States,37.4560916,-122.1862859
+sakamoto-xps-125,Windows 10,10.0.19041,SakamotoJ,Dell Inc.,1.19.2,9C:B6:D0:F8:1F:11,Cambridge,Massachusetts,United States,42.3953097,-71.1466465
+PRD00904,Windows 10,10.0.19042,satoa,LENOVO,N2HET39W (1.22 ),94:E6:F7:07:93:1A,Burbank,California,United States,34.1773416,-118.3373497
+ijaz-win10-vm,Windows 10,10.0.19042,jcarter,"VMware, Inc.",VMW71.00V.14410784.B64.190815001,00:0C:29:A5:B5:A6,None,None,None,None,None
+PRD00988,Windows 10,10.0.19042,amy_yu,LENOVO,N2QET38W(1.32 ),00:2B:67:47:32:D9,Fremont,California,United States,37.5265135,-121.927309
+PRD00990,Windows 10,10.0.19042,geisheimert,LENOVO,N2QET38W(1.32 ),00:2B:67:BD:90:6C,Lower Southampton Township,Pennsylvania,United States,40.1506304,-75.0026752
+barrett-xps-362,Windows 10,10.0.19042,null,Dell Inc.,1.6.1,00:10:74:18:1C:FF,Marlborough,Massachusetts,United States,42.3203233,-71.585936
+spare-xeon-080,Windows 10,10.0.19043,jaycarter,American Megatrends Inc.,1009,00:26:18:63:75:04,None,None,None,None,None
+CBRULE-XPS-113,Windows 10,10.0.19042,cbrule,Dell Inc.,01.01.19,48:E2:44:F6:24:FF,None,Massachusetts,United States,42.3716943,-71.21731799999999
+spare-insp-116,Windows 10,10.0.19042,64bit,Dell Inc.,1.21.0,08:D4:0C:EA:55:29,None,Massachusetts,United States,42.3717357,-71.2172913
+amir-xps15-369,Windows 10,10.0.19042,arahafrooz,Dell Inc.,1.7.1,38:14:28:A3:BE:AB,None,Maryland,United States,39.11613090000001,-77.1719918
+parker3-127,Windows 10,10.0.19041,null,Dell Inc.,A10,98:90:96:DB:AE:F0,None,None,None,None,None
+sche-xps-346,Windows 10,10.0.17763,sche,Dell Inc.,1.17.1,9C:B6:D0:C2:B0:B1,None,Massachusetts,United States,42.3314442,-71.618513
+maymandi-xps-371,Windows 10,10.0.19042,mmaymandi,Dell Inc.,1.7.1,38:14:28:A3:BE:95,Marlborough,Massachusetts,United States,42.3203191,-71.5859572
+mcdonald-xps-372,Windows 10,10.0.19042,jcarter,Dell Inc.,1.7.1,38:14:28:A3:BE:94,Marlborough,Massachusetts,United States,42.3203049,-71.58576599999999
+liu-xps15-120,Windows 10,10.0.18363,monkey,Dell Inc.,1.19.2,9C:B6:D0:DD:2F:D1,None,Massachusetts,United States,42.515939499999995,-71.4312917
